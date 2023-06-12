@@ -3,9 +3,9 @@ entries:
   kubearmor:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-12T06:23:40.715316556Z"
+    created: "2023-06-12T07:43:15.392930635Z"
     description: A Helm chart for Kubearmor on Kubernetes
-    digest: ca0deebba1cee104140f325fa52b01424cdfa46006799596e95b11d09e308f24
+    digest: 453a04c819817b6e8c285a3d221b2a28d18c01ec49bc50e7a74ec5ae88c26e07
     home: https://github.com/kubearmor/KubeArmor
     icon: https://github.com/kubearmor/KubeArmor/blob/main/.gitbook/assets/logo.png?raw=true
     name: kubearmor
@@ -13,4 +13,4 @@ entries:
     urls:
     - https://delusionaloptimist.github.io/charts/kubearmor-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-12T06:23:40.71321953Z"
+generated: "2023-06-12T07:43:15.389744193Z"
