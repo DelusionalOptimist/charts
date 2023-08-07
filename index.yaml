@@ -13,4 +13,27 @@ entries:
     urls:
     - https://delusionaloptimist.github.io/charts/kubearmor-v0.10.6.tgz
     version: v0.10.6
-generated: "2023-07-04T07:33:48.007973879Z"
+  - apiVersion: v2
+    appVersion: v0.10.2
+    created: "2023-08-07T07:07:59.815224721Z"
+    description: A Helm chart for Kubearmor on Kubernetes
+    digest: 5f72e65c5d664c7f1d7c68a456a737d9113532a5d4af4c3f42a16debc7f84e89
+    home: https://github.com/kubearmor/KubeArmor
+    icon: https://github.com/kubearmor/KubeArmor/blob/main/.gitbook/assets/logo.png?raw=true
+    name: kubearmor
+    type: application
+    urls:
+    - https://delusionaloptimist.github.io/charts/kubearmor-v0.10.2.tgz
+    version: v0.10.2
+  kubearmor-operator:
+  - apiVersion: v2
+    appVersion: v0.10.2
+    created: "2023-08-07T07:07:59.811129621Z"
+    description: A Helm chart for kubearmor operator
+    digest: de1c4cd7597b3265739448e0aa021289fb7dac6841642d27cac026af8c046f5a
+    name: kubearmor-operator
+    type: application
+    urls:
+    - https://delusionaloptimist.github.io/charts/kubearmor-operator-v0.10.2.tgz
+    version: v0.10.2
+generated: "2023-08-07T07:07:59.81065141Z"
