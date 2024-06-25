@@ -3,6 +3,21 @@ entries:
   accuknox-agents:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2024-06-25T14:59:52.219284971Z"
+    dependencies:
+    - condition: kubearmor-operator.enabled
+      name: kubearmor-operator
+      repository: https://kubearmor.github.io/charts
+      version: 1.3.4
+    description: A Helm chart for Accuknox agents
+    digest: 07d16ba31403ce19079cb10d85729259279cd494d0b309a56fc347cbd84c094b
+    name: accuknox-agents
+    type: application
+    urls:
+    - https://delusionaloptimist.github.io/charts/accuknox-agents-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2024-06-25T14:59:10.379480501Z"
     dependencies:
     - condition: kubearmor-operator.enabled
@@ -143,4 +158,4 @@ entries:
     urls:
     - https://delusionaloptimist.github.io/charts/kubearmor-operator-v0.10.2.tgz
     version: v0.10.2
-generated: "2024-06-25T14:59:10.376763559Z"
+generated: "2024-06-25T14:59:52.216782875Z"
